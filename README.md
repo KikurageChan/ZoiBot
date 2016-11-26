@@ -5,10 +5,8 @@ LINE BUSINESS CENTER の Messaging APIを利用して作成しました。
 ![画像](https://raw.githubusercontent.com/KikurageChan/Box/master/zoi_sample.png?token=AREbEmBGo2fazOi13QyDYwP8vkF_bzf-ks5YQrmRwA%3D%3D)
 
 ## 機能
-このbotはユーザが「ぞい」という言葉をトークルーム内で発言した場合に、  
-いくつかの画像をランダムで発言するbotです。
-また、botにLINEトークルーム内で「コマンド」としてメッセージを送り、  
-様々な指示を出すことができます。
+このbotはユーザが「ぞい」という言葉をトークルーム内で発言した場合に、画像をランダムで送信するbotです。  
+また、botにLINEトークルーム内で「コマンド」としてメッセージを送り、様々な指示を出すことができます。  
 
 ## コマンド一覧
 |コマンド|機能|
