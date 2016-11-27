@@ -106,7 +106,7 @@ pre{
         }
         //https://を返事として保存しようとし、うまく読み込めない場合
         if (preg_match("/^https:\/\//", $trimed_two)){
-            if(!file_get_contents($trimed_two)){
+            if(!exif_imagetype($trimed_two)){
                 postMessage("リンクが無効かも\nしれないです...");
             }
         }
