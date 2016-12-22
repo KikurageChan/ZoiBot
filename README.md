@@ -2,7 +2,7 @@
 
 LINE BUSINESS CENTER の Messaging APIを利用して作成しました。  
 
-![画像](https://raw.githubusercontent.com/KikurageChan/Box/master/zoi_sample.png?token=AREbEmBGo2fazOi13QyDYwP8vkF_bzf-ks5YQrmRwA%3D%3D)
+![画像](https://github.com/KikurageChan/Zoibot/wiki/images/zoi_sample.png)
 
 ## 機能
 このbotはユーザが「ぞい」という言葉をトークルーム内で発言した場合に、画像をランダムで送信するbotです。  
@@ -28,11 +28,11 @@ LINE BUSINESS CENTER の Messaging APIを利用して作成しました。
 反応する言葉:あいさつ  
 返答する言葉:こんにちは！  
 
-![画像](https://raw.githubusercontent.com/KikurageChan/Box/master/hello_save.png?token=AREbEhazJ4aTdGidy7yt0Gd9EhoJP535ks5YQrK2wA%3D%3D)
+![画像](https://github.com/KikurageChan/Zoibot/wiki/images/hello_save.png)
 
 このコマンドで覚えさせた「反応する言葉」は**完全一致**となります。  
 
-![画像](https://raw.githubusercontent.com/KikurageChan/Box/master/hello_return.png?token=AREbEtP2tshwQdO_FovnSL8GPnsy8Cg6ks5YQrLvwA%3D%3D)
+![画像](https://github.com/KikurageChan/Zoibot/wiki/images/hello_return.png)
 
 ---
 ### @zoi:*save
@@ -46,18 +46,18 @@ LINE BUSINESS CENTER の Messaging APIを利用して作成しました。
 反応する言葉:リンゴ  
 返答する言葉:美味しいです！
 
-![画像](https://raw.githubusercontent.com/KikurageChan/Box/master/apple_save.png?token=AREbEvXAUEXVtiZWGEE1HFMTcc6q70hPks5YQrPcwA%3D%3D)
+![画像](https://github.com/KikurageChan/Zoibot/wiki/images/apple_save.png)
 
 このコマンドで覚えさせた「反応する言葉」は**部分一致**となります。  
 
-![画像](https://raw.githubusercontent.com/KikurageChan/Box/master/apple_return.png?token=AREbEklwnToLRZucp4ncOYffVccxo7WHks5YQrQOwA%3D%3D)
+![画像](https://github.com/KikurageChan/Zoibot/wiki/images/apple_return.png)
 
 ---
 ### @zoi:list
 > - このコマンドはbotの完全一致として反応する言葉の一覧を見る時に利用します。  
 > - 「@」や「:」の記号は半角である必要があります。  
 
-![画像](https://raw.githubusercontent.com/KikurageChan/Box/master/list_sample.png?token=AREbEr4buZ4xD-qNiby9YDKIEPyxhOUoks5YQrRBwA%3D%3D)
+![画像](https://github.com/KikurageChan/Zoibot/wiki/images/list_sample.png)
 
 ---
 ### @zoi:*list
@@ -65,7 +65,7 @@ LINE BUSINESS CENTER の Messaging APIを利用して作成しました。
 > - 「@」や「:」の記号は半角である必要があります。  
 > - 「*」は「＊」でも可能です。
 
-![画像](https://raw.githubusercontent.com/KikurageChan/Box/master/list2_sample.png?token=AREbEseeHrJPYYPa07eP3C5h9h4ERA7Xks5YQrc0wA%3D%3D)
+![画像](https://github.com/KikurageChan/Zoibot/wiki/images/list2_sample.png)
 
 ---
 ### @zoi:remove
@@ -73,7 +73,7 @@ LINE BUSINESS CENTER の Messaging APIを利用して作成しました。
 > - 「@」や「:」の記号は半角である必要があります。  
 > - 完全一致 と 部分一致 とを区別する必要はありません。
 
-![画像](https://raw.githubusercontent.com/KikurageChan/Box/master/remove_sample.png?token=AREbEl4o8G9T7WInn0bjCoibdW--FZuAks5YQrdkwA%3D%3D)
+![画像](https://github.com/KikurageChan/Zoibot/wiki/images/remove_sample.png)
 
 ---
 ### @zoi:reset
@@ -82,7 +82,7 @@ LINE BUSINESS CENTER の Messaging APIを利用して作成しました。
 > 他のトークルームで動くこのbotにも影響が出てしまいます。利用には注意してください。
 > - 「@」や「:」の記号は半角である必要があります。  
 
-![画像](https://raw.githubusercontent.com/KikurageChan/Box/master/reset_sample.png?token=AREbEgAvUJmtzSqFeImgjhmtB5W2IDXRks5YQrkwwA%3D%3D)
+![画像](https://github.com/KikurageChan/Zoibot/wiki/images/reset_sample.png)
 
 ## 参考
 - [NEW GAME](http://newgame-anime.com/)  
